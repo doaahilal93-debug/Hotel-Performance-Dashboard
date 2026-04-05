@@ -23,14 +23,18 @@ The dashboard was built using Power BI to make data-driven decisions and improve
 ---
 
 ## Key KPIs
+
+### 🔹 Core (Industry Standard) KPIs
+- Cancellation Rate  
+- Average Lead Time  
+- Repeat Guest Rate  
+- Average Length of Stay  
+
+### 🔹 Custom / Analytical KPIs
 - Total Revenue  
 - Total Bookings  
 - Average Price per Room  
-- Lost Revenue 
-- Cancellation Rate  (standard) 
-- Avg Lead Time      (standard) 
-- Repeat Guest Rate  (standard)
-- Avg stay           (standard)
+- Lost Revenue  
 
 ---
 
@@ -80,7 +84,7 @@ The dashboard was built using Power BI to make data-driven decisions and improve
 ## Dashboard Preview
 ![image](Star.png)
 ![image](1.png)
-![image](2png)
+![image](2.png)
 ![image](3.png)
 ![image](4.png)
 
