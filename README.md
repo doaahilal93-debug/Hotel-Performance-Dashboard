@@ -19,6 +19,7 @@ The dashboard was built using Power BI to make data-driven decisions and improve
 - Power BI  
 - DAX (Data Analysis Expressions)  
 - Data Cleaning & Transformation  
+- Time-based analysis (Month-over-Month trends)
 
 ---
 
