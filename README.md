@@ -15,7 +15,7 @@ The dashboard was built using Power BI to make data-driven decisions and improve
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Power BI  
 - DAX (Data Analysis Expressions)  
 - Data Cleaning & Transformation  
