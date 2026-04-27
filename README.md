@@ -1,4 +1,4 @@
-# Hotel Performance Dashboard
+# Hotel Reservation Dashboard
 
 ## Project Overview
 This project analyzes hotel booking data to uncover key business insights related to revenue, customer behavior, and cancellations.
